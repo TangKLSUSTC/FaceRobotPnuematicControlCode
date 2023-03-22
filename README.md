@@ -1,0 +1,1 @@
+## This repository is the code of pnuematic control engine in project "A Soft-driven Dimensionality Reduction Face Feature Control Method and its Application in Face Recognition"
